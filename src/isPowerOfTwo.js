@@ -12,4 +12,4 @@ module.exports = function isPowerOfTwo(n) {
     return true
 }
 
-// Big-O = O(n)
+// Big-O = O(logn)
